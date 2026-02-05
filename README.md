@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi I’m Shreya, a Computer Science student who is passionate about web development and continuously learning new technologies. I’m currently working on web development projects and improving my coding skills by building real-world applications. I’m interested in collaborating on beginner-friendly open-source projects and web apps where I can learn and grow with others. Right now, I’m focusing on learning Data Structures & Algorithms in Java , and learning backend development . You can ask me about HTML, CSS, JavaScript, React , SQL , Java basics, and student tech projects.I have basic knowledge in Python , C , C++,OS,OOSE and DBMS. I am currently a part of Coding Ninjas CUIET . <br> <br><br>Fun fact: I get way too excited when my code runs without errors<br>
+I’m Shreya, a Computer Science student who is passionate about web development and continuously learning new technologies. I’m currently working on web development projects and improving my coding skills by building real-world applications. I’m interested in collaborating on beginner-friendly open-source projects and web apps where I can learn and grow with others. Right now, I’m focusing on learning Data Structures & Algorithms in Java , and learning backend development .I am currently part of Coding Ninjas CUIET as a technical team executive . 
 
 
 ## 🌐 Socials:
